@@ -204,6 +204,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-/ChromeDriver
+/HansungCrawler/ChromeDriver
+
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,macos,python,windows
