@@ -1,0 +1,4 @@
+{
+  "optionList": "body > ul > li:nth-child(2) > a",
+  "optionAttr": "innerText"
+}
