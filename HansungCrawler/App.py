@@ -33,14 +33,16 @@ def crawler():
     elementList = browser.find_elements_by_css_selector(
         keyboardOptionListSelector)
 
+    print("###################### OPTION LIST ###########################")
     for element in elementList:
-        optionInnerText = element.get_attribute(keyboardOptionAttr)
-        print("#################### OPTION LIST ####################")
+
+        optionInnerText = "<" + element.get_attribute(keyboardOptionAttr) + ">"
+
         if myWhis in optionInnerText:
-            print("<", optionInnerText, "> @@@@@@@ 큰누나가 찾던거!! 얼른 주문!! @@@@@@")
+            print(optionInnerText, " @@@@@@@ 큰누나가 찾던거!! 얼른 주문!! @@@@@@")
         else:
-            print("<", optionInnerText, "> ")
-    print("#####################################################")
+            print(optionInnerText)
+    print("###############################################################")
 
     print("CRAWL END")
 
