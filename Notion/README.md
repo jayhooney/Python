@@ -13,7 +13,7 @@
 
 #### BEFORE
 
-![before](https://github.com/jayhooney/Python/tree/main/Notion/Sample/before.png)
+![before](./Sample/after.png)
 
 #### AFTER
 
