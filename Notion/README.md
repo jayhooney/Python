@@ -13,7 +13,7 @@
 
 #### BEFORE
 
-![before](./Sample/after.png)
+![before](./Sample/before.png)
 
 #### AFTER
 
