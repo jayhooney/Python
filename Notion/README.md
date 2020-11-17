@@ -8,13 +8,13 @@
 
 ```
 
-> 참고 1.<https://velog.io/@king/Notion-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-TodoBlock-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-6pk58z0kqm>
+> 참고 1.<https://velog.io/@king/Notion-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-TodoBlock-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-6pk58z0kqm>  
 > 참고 2.<https://medium.com/@leejukyung/notion-py%EB%A1%9C-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A7%8C%EB%93%A4%EA%B8%B0-5b685e8c8a5d>
 
 #### BEFORE
 
-![ex_screenshot](./sample/before.png)
+![before](https://github.com/jayhooney/Python/tree/main/Notion/Sample/before.png)
 
 #### AFTER
 
-![ex_screenshot](./sample/after.png)
+![after](./Sample/after.png)
