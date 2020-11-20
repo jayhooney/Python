@@ -1,10 +1,12 @@
-from notion.block import CollectionViewBlock
-from notion.client import NotionClient
-from Secret import _MY_NOTION_PAGE_URL_, _MY_TOKEN_V2_
+from NotionUtil import NotionUtil
 
 
 class App:
 
     def main(self):
         print(" * NOTION MIGRATION UTIL *")
+        NotionUtil().Start()
         return
+
+
+App().main()
