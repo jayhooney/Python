@@ -1,4 +1,4 @@
 {
-  "optionList": "body > ul > li:nth-child(2) > a",
+  "optionList": "body > ul > li",
   "optionAttr": "innerText"
 }
