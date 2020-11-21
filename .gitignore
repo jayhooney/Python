@@ -205,6 +205,6 @@ $RECYCLE.BIN/
 *.lnk
 
 /HansungCrawler/ChromeDriver
-Notion/Secret.py
+/Notion/Define
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,macos,python,windows
